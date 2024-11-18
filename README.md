@@ -33,3 +33,31 @@ Each scan compares the current state with the previously logged state, creating 
 
 ## Example Output
 **Audit Log Example:**
+Audit Log - 11/18/2024 11:30:00 New Files:
+
+C:\Test\newfile.txt Modified Files:
+D:\Data\modifiedfile.docx Deleted Files:
+E:\Backup\oldfile.pdf
+
+
+---
+
+## Requirements
+- .NET Framework or .NET Core
+- Administrator privileges may be required for accessing certain drives or directories.
+
+---
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
+
+## Contributions
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+---
+
+## Author
+Developed by [Your Name]. For any questions or suggestions, contact me at [Your Email].
+
